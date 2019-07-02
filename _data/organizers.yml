@@ -1,4 +1,4 @@
 - 
   group: "Main organizer"
-  elements: 
+  elements:
     - {name: "GDG Capital Region", description: "GDG Capital Region - Open and volunteer geek community", link: "http://gdgcapitalregion.com", imageUrl: "gdg-lviv.svg"}

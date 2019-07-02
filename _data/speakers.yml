@@ -1,221 +1,221 @@
-- 
-  id: 1
-  name: "Sarah"
-  surname: "Parker Ward"
-  company: "Kathleen Palmer Media"
-  title: "PhD at Boston University"
-  bio: "After a decade working in digital marketing across B2B and consumer markets, Sarah returned to university to study the intersection of media technologies and wellness. Now at Boston University’s Emerging Media doctoral program, she teaches and researches how mindfulness and meditation can mitigate media-induced stress. (Spoiler: unplugging can be good for you!)"
-  thumbnailUrl: SarahParkerWard.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/SKParkerWard"}
-- 
-  id: 2
-  name: "Kevin"
-  surname: "Hoffman"
-  company: "CapitalOne"
-  title: "Engineering Lead"
-  bio: "Kevin is an Engineering Lead at Capital One where he converts napkin drawings into software, builds distributed systems, and helps teach other teams the ancient and mysterious art of cloud native. He has worked in many different industries, including waste management, biometric security, search & rescue drones, and he did a tour at Pivotal teaching customers to migrate their monoliths to the cloud."
-  thumbnailUrl: KevinHoffman.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/KevinHoffman"}
-    - {name: "github", link: "https://github.com/autodidaddict"}
-- 
-  id: 3
-  name: "Becca"
-  surname: "Kennedy"
-  company: "Agrilyst & Kennason"
-  title: "PhD Human Factors Psychologist & UX Researcher"
-  bio: "She lives in Albany where she runs the UX consulting company Kennason and works remotely for the ag tech startup Agrilyst. She is also a writer for UserZoom and a board member of AIGA Upstate New York."
-  thumbnailUrl: BeccaKennedy.png
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/becca_kennedy"}
-- 
-  id: 4
-  name: "Mavreen"
-  surname: "Smiel"
-  company: "Namely"
-  title: "Software Engineer in Test"
-  bio: "Mavreen is currently a Software Engineer in Test at Namely. When she’s not slinging code, she’s writing stories."
-  thumbnailUrl: MavreenSmiel.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/_graphei"}
-- 
-  id: 5
-  name: "Amanda"
-  surname: "Kirk"
-  company: "RPI Digital Game Hub"
-  title: "Digital Game Hub Coordinator"
-  bio: "Amanda Kirk has spent 10 years in the games industry working on entertainment, educational and serious games for a variety of platforms including DS, 3DS, iOS, Android and Windows. She is an experienced developer creating interactive experiences in AR/VR and educational software. An active member of the community she developed the Teen Game Workshop, a program to teach game development to local teens, is a key organizer for the Games in Education Symposium and serves as Chair for Albany's IGDA chapter. She currently serves as the coordinator for RPI's Digital Game Hub."
-  thumbnailUrl: AmandaKirk.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/AmandaLKirk"}
-    - {name: "site", link: "http://www.amandalkirk.com"}
-- 
-  id: 6
-  name: "Blain"
-  surname: "Smith"
-  company: "Kinetic"
-  title: "Senior Software Engineer"
-  bio: "Blain has been writing software for over 20 years spanning multiple industries such as higher-ed, gaming, entertainment, and now currently in embedded wearables for safety. When he is not coding you can find him training in the gym for powerlifting and strongman competitions."
-  thumbnailUrl: BlainSmith.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/blainsmith"}
-    - {name: "github", link: "https://twitter.com/blainsmith"}
-    - {name: "site", link: "https://blainsmith.com"}
-- 
-  id: 8
-  name: "Kirk"
-  surname: "Bater"
-  company: "Cofense, Inc."
-  title: "Production Engineer"
-  bio: "Kirk Bater is currently a Production Engineer with Cofense, Inc.  where he spends most of his time working on enabling developers through automation of infrastructure work.  When he's not writing code or writing about code, you can find him woodworking or training for his next Triathlon."
-  thumbnailUrl: KirkBater.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/kirkbater"}
-    - {name: "github", link: "https://github.com/iamkirkbater"}
-- 
-  id: 9
-  name: "Austin"
-  surname: "Parker"
-  company: "LightStep"
-  title: "Open Source Software Engineer"
-  bio: "Austin Parker is an Open Source Software engineer who works with LightStep to maintain, improve, and evangelize the OpenTracing project. He believes in making better tools for developers, so they can build more resilient and observable systems at scale. Previously, Austin was a Software Architect at Apprenda, where he worked with distributed systems involving Kubernetes, .NET, and the cloud."
-  thumbnailUrl: AustinParker.png
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/austinlparker"}
-    - {name: "github", link: "https://github.com/austinlparker"} 
-- 
-  id: 10
-  name: "Jedidiah"
-  surname: "Stewart"
-  company: "Troy Web Consulting"
-  title: "Senior Consultant/Architecture"
-  bio: "An accomplished Software Developer who has been creating Object Oriented applications for more than a decade with extensive experience in the full life cycle of software (requirements definition, prototyping, proof of concept, design, interface implementation, testing and maintenance) in an enterprise environment."
-  thumbnailUrl: JedidiahStewart.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jedidiah-stewart-76008235/"}
-- 
-  id: 11
-  name: "Kenny"
-  surname: "Day"
-  company: "PUBG:Madglory"
-  title: "Software Engineer"
-  bio: "Kenny is a software engineer in Saratoga Springs building distributed web services for PUBG:Madglory, formerly known as Madglory. He has previously worked with other game studios such as Riot Games and Warner Brothers building and extending backend game services."
-  thumbnailUrl: KennyDay.png
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/dimxasnewfrozen"}
-- 
-  id: 12
-  name: "Wesley"
-  surname: "Rolnick"
-  company: "Transfinder"
-  title: "Scrum Master"
-  bio: "Wesley Rolnick is a Scrum Master at Transfinder where he helps teams achieve high performance through efficient software development practices.  When he’s not working with a Scrum team, he can be found in the woods training for his next ultra-marathon."
-  thumbnailUrl: WesleyRolnick.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/wesley-rolnick-0453368/"}
-    - {name: "github", link: "https://github.com/syncrisis"}
-- 
-  id: 13
-  name: "Nicholas"
-  surname: "Prusko"
-  company: "Transfinder"
-  title: "Software Architect"
-  bio: "Nicholas is currently Transfinder’s Software Architect where he designs efficient and scalable software. When he is not in the office, Nick is usually in the garage working on his many projects."
-  thumbnailUrl: NicholasPrusko.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nicholas-prusko-024ba174/"}
-- 
-  id: 14
-  name: "Elizabeth"
-  surname: "Chauhan"
-  company: "Transfinder"
-  title: "Release Manager"
-  bio: "Liz Chauhan is Transfinder’s Release Manager and has over a decade of experience in many aspects of a technology company including; sales enablement, client services, and release management. In her current role, Liz coordinates all aspects of the release cycle for new and existing products, with an emphasis on fast deployments with the end user in mind. Outside of the software world, Liz enjoys running and is always training for a marathon, relay or both."
-  thumbnailUrl: ElizabethChauhan.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/elizabeth-chauhan-a265766/"}
-- 
-  id: 15
-  name: "Chadd"
-  surname: "Portwine"
-  company: "Jahnel Group"
-  title: "Systems Administrator"
-  bio: "Chadd has represented and consulted businesses you know, including Microsoft, Sony, Disney, and more. He got his start in the software development and entertainment industry, releasing blockbuster video games, such as Guitar Hero, Lego Racers, and Spider-Man. He has applied his coding and teaching skills as an adjunct professor at Northwest University and as a content developer for Excelsior College. In the semiconductor industry at Globalfoundries, Chadd brought database technologies online and trained departments to use the systems. At Jahnel Group, Chadd provides operational support and systems administration. Chadd lives in Albany, NY with his amazing wife and children, and he enjoys good coffee and bad sci-fi."
-  thumbnailUrl: ChaddPortwine.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/dchaddportwine"}
-- 
-  id: 16
-  name: "Faith"
-  surname: "Wallace"
-  company: "Code Girl"
-  title: "Front End Developer"
-  bio: "I am a Web Developer, Professor, Writer, Hogwarts Student, and Doctor Who Companion… Okay, so maybe I am not a student at Hogwarts… I am sure I’d be sorted into Ravenclaw! And, maybe I am not a Doctor Who companion… But wouldn’t time traveling in the TARDIS be amazing? My career started, not in magic, but in education. I taught middle school English before I went back to school full-time to earn a Ph.D. in Language and Literacy from Georgia State University, and worked as a Professor of Literacy at Kennesaw State University (GA). After years of teaching, I decided to leverage my background in language and literacy for a new career as a Front End Developer with an affinity for clean, classic web design with original and well-commented code. However, I have never truly left education, and I have applied what I know about education from years of study and practice to how people learn to code. I write a blog with the focus: A Professor’s Perspective on Learning to Code. I help new coders understand their unique learning process and their individual learning styles. I help coding instructors learn to differentiate their instruction to meet the needs of diverse learners. Further, I help coders understand WHY learning to code is complex, and how to chose the best resources to meet their needs."
-  thumbnailUrl: FaithWallace.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/fwallacephd"}
-    - {name: "site", link: "https://medium.com/@faithhfrankelwallace"}
-- 
-  id: 17
-  name: "Sam"
-  surname: "Bonfante"
-  company: ""
-  title: ""
-  bio: "Sam Bonfante is a developer who works beyond the Full Stack. From embedded systems and integration through the server to frontend web SPAs, he eats C for breakfast, JavaScript for lunch, and skips dinner (intermittent fasting changed his life!) Sam has spent the past four years helping to make the Tech Valley Center of Gravity the premiere Makerspace in the Northeast, and can be found most days flipping bits as their Director of IT."
-  thumbnailUrl: SamBonfante.jpg
-  rockstar: true
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/fwallacephd"}
-  #   - {name: "site", link: "https://medium.com/@faithhfrankelwallace"}
-- 
-  id: 18
-  name: "Lucas"
-  surname: "Holmquist"
-  company: "RedHat"
-  title: "Senior Software Engineer"
-  bio: "Lucas is a Sr. Software Engineer at Red Hat. Formerly of the Mobile team, where he focused on the mobile web and front-end development, he is now mostly focused on the Node.js developer experience on Openshift. While I am not a Node expert, I do pretend to be one at work."
-  thumbnailUrl: LucasHolmquist.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/sienaluke"}
-    - {name: "site", link: "https://blog.lholmquist.org/"}
-- 
-  id: 19
-  name: "Jason"
-  surname: "Kuruzovich"
-  company: "RPI Severino Center"
-  title: "Director of the Severino Center for Technological Entrepreneurship"
-  bio: "Jason is an academic entrepreneur that works on problems in which analytics can have a meaningful impact on the world. Jason teaches the Business Analytics Capstone course, where over the past 3 years he has worked with students on over 20 company projects as part of the RPI MS Business Analytics program (ranked 3rd in the world by TFE Times). Through his role as Director of the Severino Center for Technological Entrepreneurship, Jason manages a wide variety of programs to encourage entrepreneurship through contexts, communities, and mentorship opportunities. Jason has been directly involved in the launch of numerous programs including Foundry-RPI, Startup Tech Valley meetup, NSF Funded NYS Capital Region I-Corp Site Program (PI for grant). He has been recognized as one of the Albany Business Review’s 40 under 40 in the Capital Region and received the Center for Economic Growth (CEG) Technology Innovation Award. He also received the 2016 Upstate Venture Connect Campus Connector Award."
-  thumbnailUrl: JasonKuruzovich.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/AiCarme"}
-    - {name: "site", link: "https://carme.ai/"}
-- 
-  id: 20
-  name: "Andy"
-  surname: "Haskell"
-  company: "Diffeo"
-  title: "Web Software Engineer"
-  bio: "I’m a web software engineer at Diffeo, a startup in Boston, who mainly writes Go on the job and am also making my way into frontend JavaScript. I previously worked as a computational biology software engineer at MIT, and I am the resident sloth enthusiast at wherever I work. I am also an organizer at Boston Golang, Boston’s meetup group for the Go programming language. I am always way into learning new technology, and organization does not come naturally to me, which is how I came to build my note taking staying for staying productive on the job and in side projects across different programming languages."
-  thumbnailUrl: AndyHaskell.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/AndyHaskell2013"}
-    - {name: "site", link: "https://medium.com/@AndyHaskell2013"}
+# - 
+#   id: 1
+#   name: "Sarah"
+#   surname: "Parker Ward"
+#   company: "Kathleen Palmer Media"
+#   title: "PhD at Boston University"
+#   bio: "After a decade working in digital marketing across B2B and consumer markets, Sarah returned to university to study the intersection of media technologies and wellness. Now at Boston University’s Emerging Media doctoral program, she teaches and researches how mindfulness and meditation can mitigate media-induced stress. (Spoiler: unplugging can be good for you!)"
+#   thumbnailUrl: SarahParkerWard.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/SKParkerWard"}
+# - 
+#   id: 2
+#   name: "Kevin"
+#   surname: "Hoffman"
+#   company: "CapitalOne"
+#   title: "Engineering Lead"
+#   bio: "Kevin is an Engineering Lead at Capital One where he converts napkin drawings into software, builds distributed systems, and helps teach other teams the ancient and mysterious art of cloud native. He has worked in many different industries, including waste management, biometric security, search & rescue drones, and he did a tour at Pivotal teaching customers to migrate their monoliths to the cloud."
+#   thumbnailUrl: KevinHoffman.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/KevinHoffman"}
+#     - {name: "github", link: "https://github.com/autodidaddict"}
+# - 
+#   id: 3
+#   name: "Becca"
+#   surname: "Kennedy"
+#   company: "Agrilyst & Kennason"
+#   title: "PhD Human Factors Psychologist & UX Researcher"
+#   bio: "She lives in Albany where she runs the UX consulting company Kennason and works remotely for the ag tech startup Agrilyst. She is also a writer for UserZoom and a board member of AIGA Upstate New York."
+#   thumbnailUrl: BeccaKennedy.png
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/becca_kennedy"}
+# - 
+#   id: 4
+#   name: "Mavreen"
+#   surname: "Smiel"
+#   company: "Namely"
+#   title: "Software Engineer in Test"
+#   bio: "Mavreen is currently a Software Engineer in Test at Namely. When she’s not slinging code, she’s writing stories."
+#   thumbnailUrl: MavreenSmiel.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/_graphei"}
+# - 
+#   id: 5
+#   name: "Amanda"
+#   surname: "Kirk"
+#   company: "RPI Digital Game Hub"
+#   title: "Digital Game Hub Coordinator"
+#   bio: "Amanda Kirk has spent 10 years in the games industry working on entertainment, educational and serious games for a variety of platforms including DS, 3DS, iOS, Android and Windows. She is an experienced developer creating interactive experiences in AR/VR and educational software. An active member of the community she developed the Teen Game Workshop, a program to teach game development to local teens, is a key organizer for the Games in Education Symposium and serves as Chair for Albany's IGDA chapter. She currently serves as the coordinator for RPI's Digital Game Hub."
+#   thumbnailUrl: AmandaKirk.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/AmandaLKirk"}
+#     - {name: "site", link: "http://www.amandalkirk.com"}
+# - 
+#   id: 6
+#   name: "Blain"
+#   surname: "Smith"
+#   company: "Kinetic"
+#   title: "Senior Software Engineer"
+#   bio: "Blain has been writing software for over 20 years spanning multiple industries such as higher-ed, gaming, entertainment, and now currently in embedded wearables for safety. When he is not coding you can find him training in the gym for powerlifting and strongman competitions."
+#   thumbnailUrl: BlainSmith.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/blainsmith"}
+#     - {name: "github", link: "https://twitter.com/blainsmith"}
+#     - {name: "site", link: "https://blainsmith.com"}
+# - 
+#   id: 8
+#   name: "Kirk"
+#   surname: "Bater"
+#   company: "Cofense, Inc."
+#   title: "Production Engineer"
+#   bio: "Kirk Bater is currently a Production Engineer with Cofense, Inc.  where he spends most of his time working on enabling developers through automation of infrastructure work.  When he's not writing code or writing about code, you can find him woodworking or training for his next Triathlon."
+#   thumbnailUrl: KirkBater.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/kirkbater"}
+#     - {name: "github", link: "https://github.com/iamkirkbater"}
+# - 
+#   id: 9
+#   name: "Austin"
+#   surname: "Parker"
+#   company: "LightStep"
+#   title: "Open Source Software Engineer"
+#   bio: "Austin Parker is an Open Source Software engineer who works with LightStep to maintain, improve, and evangelize the OpenTracing project. He believes in making better tools for developers, so they can build more resilient and observable systems at scale. Previously, Austin was a Software Architect at Apprenda, where he worked with distributed systems involving Kubernetes, .NET, and the cloud."
+#   thumbnailUrl: AustinParker.png
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/austinlparker"}
+#     - {name: "github", link: "https://github.com/austinlparker"} 
+# - 
+#   id: 10
+#   name: "Jedidiah"
+#   surname: "Stewart"
+#   company: "Troy Web Consulting"
+#   title: "Senior Consultant/Architecture"
+#   bio: "An accomplished Software Developer who has been creating Object Oriented applications for more than a decade with extensive experience in the full life cycle of software (requirements definition, prototyping, proof of concept, design, interface implementation, testing and maintenance) in an enterprise environment."
+#   thumbnailUrl: JedidiahStewart.png
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/jedidiah-stewart-76008235/"}
+# - 
+#   id: 11
+#   name: "Kenny"
+#   surname: "Day"
+#   company: "PUBG:Madglory"
+#   title: "Software Engineer"
+#   bio: "Kenny is a software engineer in Saratoga Springs building distributed web services for PUBG:Madglory, formerly known as Madglory. He has previously worked with other game studios such as Riot Games and Warner Brothers building and extending backend game services."
+#   thumbnailUrl: KennyDay.png
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/dimxasnewfrozen"}
+# - 
+#   id: 12
+#   name: "Wesley"
+#   surname: "Rolnick"
+#   company: "Transfinder"
+#   title: "Scrum Master"
+#   bio: "Wesley Rolnick is a Scrum Master at Transfinder where he helps teams achieve high performance through efficient software development practices.  When he’s not working with a Scrum team, he can be found in the woods training for his next ultra-marathon."
+#   thumbnailUrl: WesleyRolnick.png
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/wesley-rolnick-0453368/"}
+#     - {name: "github", link: "https://github.com/syncrisis"}
+# - 
+#   id: 13
+#   name: "Nicholas"
+#   surname: "Prusko"
+#   company: "Transfinder"
+#   title: "Software Architect"
+#   bio: "Nicholas is currently Transfinder’s Software Architect where he designs efficient and scalable software. When he is not in the office, Nick is usually in the garage working on his many projects."
+#   thumbnailUrl: NicholasPrusko.png
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/nicholas-prusko-024ba174/"}
+# - 
+#   id: 14
+#   name: "Elizabeth"
+#   surname: "Chauhan"
+#   company: "Transfinder"
+#   title: "Release Manager"
+#   bio: "Liz Chauhan is Transfinder’s Release Manager and has over a decade of experience in many aspects of a technology company including; sales enablement, client services, and release management. In her current role, Liz coordinates all aspects of the release cycle for new and existing products, with an emphasis on fast deployments with the end user in mind. Outside of the software world, Liz enjoys running and is always training for a marathon, relay or both."
+#   thumbnailUrl: ElizabethChauhan.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/elizabeth-chauhan-a265766/"}
+# - 
+#   id: 15
+#   name: "Chadd"
+#   surname: "Portwine"
+#   company: "Jahnel Group"
+#   title: "Systems Administrator"
+#   bio: "Chadd has represented and consulted businesses you know, including Microsoft, Sony, Disney, and more. He got his start in the software development and entertainment industry, releasing blockbuster video games, such as Guitar Hero, Lego Racers, and Spider-Man. He has applied his coding and teaching skills as an adjunct professor at Northwest University and as a content developer for Excelsior College. In the semiconductor industry at Globalfoundries, Chadd brought database technologies online and trained departments to use the systems. At Jahnel Group, Chadd provides operational support and systems administration. Chadd lives in Albany, NY with his amazing wife and children, and he enjoys good coffee and bad sci-fi."
+#   thumbnailUrl: ChaddPortwine.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/dchaddportwine"}
+# - 
+#   id: 16
+#   name: "Faith"
+#   surname: "Wallace"
+#   company: "Code Girl"
+#   title: "Front End Developer"
+#   bio: "I am a Web Developer, Professor, Writer, Hogwarts Student, and Doctor Who Companion… Okay, so maybe I am not a student at Hogwarts… I am sure I’d be sorted into Ravenclaw! And, maybe I am not a Doctor Who companion… But wouldn’t time traveling in the TARDIS be amazing? My career started, not in magic, but in education. I taught middle school English before I went back to school full-time to earn a Ph.D. in Language and Literacy from Georgia State University, and worked as a Professor of Literacy at Kennesaw State University (GA). After years of teaching, I decided to leverage my background in language and literacy for a new career as a Front End Developer with an affinity for clean, classic web design with original and well-commented code. However, I have never truly left education, and I have applied what I know about education from years of study and practice to how people learn to code. I write a blog with the focus: A Professor’s Perspective on Learning to Code. I help new coders understand their unique learning process and their individual learning styles. I help coding instructors learn to differentiate their instruction to meet the needs of diverse learners. Further, I help coders understand WHY learning to code is complex, and how to chose the best resources to meet their needs."
+#   thumbnailUrl: FaithWallace.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/fwallacephd"}
+#     - {name: "site", link: "https://medium.com/@faithhfrankelwallace"}
+# - 
+#   id: 17
+#   name: "Sam"
+#   surname: "Bonfante"
+#   company: ""
+#   title: ""
+#   bio: "Sam Bonfante is a developer who works beyond the Full Stack. From embedded systems and integration through the server to frontend web SPAs, he eats C for breakfast, JavaScript for lunch, and skips dinner (intermittent fasting changed his life!) Sam has spent the past four years helping to make the Tech Valley Center of Gravity the premiere Makerspace in the Northeast, and can be found most days flipping bits as their Director of IT."
+#   thumbnailUrl: SamBonfante.jpg
+#   rockstar: true
+#   # social: 
+#   #   - {name: "twitter", link: "https://twitter.com/fwallacephd"}
+#   #   - {name: "site", link: "https://medium.com/@faithhfrankelwallace"}
+# - 
+#   id: 18
+#   name: "Lucas"
+#   surname: "Holmquist"
+#   company: "RedHat"
+#   title: "Senior Software Engineer"
+#   bio: "Lucas is a Sr. Software Engineer at Red Hat. Formerly of the Mobile team, where he focused on the mobile web and front-end development, he is now mostly focused on the Node.js developer experience on Openshift. While I am not a Node expert, I do pretend to be one at work."
+#   thumbnailUrl: LucasHolmquist.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/sienaluke"}
+#     - {name: "site", link: "https://blog.lholmquist.org/"}
+# - 
+#   id: 19
+#   name: "Jason"
+#   surname: "Kuruzovich"
+#   company: "RPI Severino Center"
+#   title: "Director of the Severino Center for Technological Entrepreneurship"
+#   bio: "Jason is an academic entrepreneur that works on problems in which analytics can have a meaningful impact on the world. Jason teaches the Business Analytics Capstone course, where over the past 3 years he has worked with students on over 20 company projects as part of the RPI MS Business Analytics program (ranked 3rd in the world by TFE Times). Through his role as Director of the Severino Center for Technological Entrepreneurship, Jason manages a wide variety of programs to encourage entrepreneurship through contexts, communities, and mentorship opportunities. Jason has been directly involved in the launch of numerous programs including Foundry-RPI, Startup Tech Valley meetup, NSF Funded NYS Capital Region I-Corp Site Program (PI for grant). He has been recognized as one of the Albany Business Review’s 40 under 40 in the Capital Region and received the Center for Economic Growth (CEG) Technology Innovation Award. He also received the 2016 Upstate Venture Connect Campus Connector Award."
+#   thumbnailUrl: JasonKuruzovich.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/AiCarme"}
+#     - {name: "site", link: "https://carme.ai/"}
+# - 
+#   id: 20
+#   name: "Andy"
+#   surname: "Haskell"
+#   company: "Diffeo"
+#   title: "Web Software Engineer"
+#   bio: "I’m a web software engineer at Diffeo, a startup in Boston, who mainly writes Go on the job and am also making my way into frontend JavaScript. I previously worked as a computational biology software engineer at MIT, and I am the resident sloth enthusiast at wherever I work. I am also an organizer at Boston Golang, Boston’s meetup group for the Go programming language. I am always way into learning new technology, and organization does not come naturally to me, which is how I came to build my note taking staying for staying productive on the job and in side projects across different programming languages."
+#   thumbnailUrl: AndyHaskell.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/AndyHaskell2013"}
+#     - {name: "site", link: "https://medium.com/@AndyHaskell2013"}

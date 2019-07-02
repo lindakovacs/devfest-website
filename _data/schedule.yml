@@ -1,7 +1,71 @@
-- 
-  date: "2018-10-27"
-  dateReadable: "October 27"
-  tracks: 
+-
+  date: "2019-09-28"
+  dateReadable: "October 28"
+  tracks:
+    - {title: "Talks 1 - Main Area (Downstairs)", color: "#90be4e"}
+    - {title: "Talks 2 - Boardroom (Upstairs)", color: "#03a9f4"}
+    - {title: "Talks 3 - The Bean (Downstairs)", color: "#e91e63"}
+  timeslots:
+    - {
+      startTime: "8:00",
+      endTime: "9:00",
+      sessionIds: [1]
+    }
+    - {
+      startTime: "9:00",
+      endTime: "9:20",
+      sessionIds: [2]
+    }
+    - {
+    	startTime: "9:30",
+    	endTime: "10:20",
+    	sessionIds: [931, 932, 933]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "11:20",
+    	sessionIds: [1133, 1032, 1033]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "12:20",
+    	sessionIds: [1131, 1031, 1132]
+    }
+    - {
+      startTime: "12:20",
+      endTime: "12:50",
+      sessionIds: [5]
+    }
+    - {
+      startTime: "12:50",
+      endTime: "1:50",
+      sessionIds: [3]
+    }
+    - {
+    	startTime: "2:00",
+    	endTime: "2:50",
+    	sessionIds: [231, 233, 232]
+    }
+    - {
+    	startTime: "3:00",
+    	endTime: "3:50",
+    	sessionIds: [431, 332, 333]
+    }
+    - {
+    	startTime: "4:00",
+    	endTime: "4:50",
+    	sessionIds: [432, 433, 6]
+    }
+    - {
+      startTime: "5:00",
+      endTime: "6:00",
+      sessionIds: [4]
+    }
+
+    -
+  date: "2019-09-29"
+  dateReadable: "October 29"
+  tracks:
     - {title: "Talks 1 - Main Area (Downstairs)", color: "#90be4e"}
     - {title: "Talks 2 - Boardroom (Upstairs)", color: "#03a9f4"}
     - {title: "Talks 3 - The Bean (Downstairs)", color: "#e91e63"}

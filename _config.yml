@@ -37,7 +37,7 @@ socialImageSrcFacebook: ""
 
 # Documents
 c4pUrl: ""
-c4sponsorsUrl: "/assets/GDGCR_SponsorshipProspectusDevFest2018.pdf"
+c4sponsorsUrl: "/assets/GDGCR_SponsorshipProspectusDevFest2019.pdf"
 
 
 # Navigation
@@ -49,8 +49,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2018"
-eventDate: "October 27, 2018 8:00 AM - 6:00 PM"
+heroTitle: "GDG DevFest <typeout> 2019"
+eventDate: "September 28, 2019 8:00 AM - 6:00 PM"
+eventDate: "September 29, 2019 8:00 AM - 2:00 PM"
 typeoutTextValues: '"", "Season", "Capital Region"'
 typeoutFallback: "Season"
 heroButtons:
@@ -59,8 +60,9 @@ heroButtons:
 # About Block
 aboutTitle: "Past Events"
 aboutBlock:
- - {title: "November 12, 2016", link: "https://gdgcapitalregion.bitbucket.io/", text: "Talks, demos, codelabs and workshops in cloud, mobile, web, and IoT, machine learning and Go training." }
+ - {title: "October 27, 2018", link: "https://devfestcr2018.bitbucket.io/", text: "Talks, demos, codelabs and workshops covering Kubernetes, Flutter, Firebase, Node Native, Go training, OpenShift, TestOps, Carme.ai, Distributed Systems, and much more." }
  - {title: "October 28, 2017", link: "https://devfestcr2017.bitbucket.io/", text: "Talks, demos and workshops covering TensorFlow, Kubernetes, Pachyderm, ReactJS, Google Assistant, Go, and much more." }
+ - {title: "November 12, 2016", link: "https://gdgcapitalregion.bitbucket.io/", text: "Talks, demos, codelabs and workshops in cloud, mobile, web, and IoT, machine learning and Go training." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -129,33 +131,33 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "$34"
+  price: "$49"
   buyButtonLink: "https://www.eventbrite.com/e/capital-region-google-developer-group-devfest-2018-devfestcr18-tickets-49862324555#tickets"
   buyButtonText: "Buy Now"
   ticketContentList: ["fee not included"]
-  validFrom: "2018-01-01"
-  validThrough: "2018-10-04"
+  validFrom: "2019-01-01"
+  validThrough: "2019-08-01"
   soldOut: true
   soldOutText: "Sold Out"
  -
   name: "Standard"
-  price: "$39"
+  price: "$99"
   featured: true
   buyButtonLink: "https://www.eventbrite.com/e/capital-region-google-developer-group-devfest-2018-devfestcr18-tickets-49862324555#tickets"
   buyButtonText: "Buy Now"
   ticketContentList: ["fee not included"]
-  validFrom: "2018-10-05"
-  validThrough: "2018-10-26"
+  validFrom: "2019-08-02"
+  validThrough: "2019-09-27"
  -
   name: "Student"
-  price: "$10"
+  price: "$25"
   ticketsNumber: "50"
   buyButtonLink: "https://www.eventbrite.com/e/capital-region-google-developer-group-devfest-2018-devfestcr18-tickets-49862324555#tickets"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["fee not included"]
-  validFrom: "2018-01-01"
-  validThrough: "2018-10-26"
+  validFrom: "2019-01-01"
+  validThrough: "2019-09-27"
   # soldOut: true
   # soldOutText: "Sold Out"
 
